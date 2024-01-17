@@ -26,4 +26,4 @@ I like to explore and build projects on topics I've studied throughout my years 
 
 ### 📊 Stats
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=WanisC&layout=compact">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WanisC)](https://github.com/WanisC/github-readme-stats)
