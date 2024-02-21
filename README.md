@@ -8,7 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanischouaib/)](https://www.linkedin.com/in/wanis-chouaib-7b327b251/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:wanischouaib1@gmail.com)](mailto:wanischouaib1@gmail.com)
 [![Reddit Badge](https://img.shields.io/badge/Reddit-orange?style=flat&logo=reddit&logoColor=white&link=https://www.https://www.reddit.com/user/cWano)](https://www.reddit.com/user/cWano)
-[![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-red%3Fstyle%3Dflat%26logo%3Dtryhackme%26link%3Dhttps%3A%2F%2Ftryhackme.com%2Fp%2FcWano)]([https://medium.com/@wanisc1804](https://tryhackme.com/p/cWano))
+[![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-red%3Fstyle%3Dflat%26logo%3Dtryhackme%26link%3Dhttps%3A%2F%2Ftryhackme.com%2Fp%2FcWano)](https://tryhackme.com/p/cWano)
 
 ### About me
 
