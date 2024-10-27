@@ -11,7 +11,7 @@
 
 ### About me
 
-I'm a **Computer Science student 👨‍🎓 at [UVSQ, Paris-Saclay](https://www.uvsq.fr/)** with a particular focus on cybersecurity, a field in which I'd like to continue my Master's studies.
+I'm a **Network Systems Engineer student 👨‍🎓 at [UVSQ, Paris-Saclay](https://www.uvsq.fr/)** with a particular focus on cybersecurity, a field in which I'd like to continue my professional career.
 I like to explore and build projects on topics I've studied throughout my years to gain experience and knowledge.
 <br/><br/>
 
@@ -25,4 +25,4 @@ I like to explore and build projects on topics I've studied throughout my years 
 
 ### 📊 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WanisC)](https://github.com/WanisC/github-readme-stats) <img src="https://tryhackme-badges.s3.amazonaws.com/N0w4c.png" alt="Your Image Badge" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WanisC)](https://github.com/WanisC/github-readme-stats) <img src="https://tryhackme-badges.s3.amazonaws.com/N0w4c.png" alt="MyBadge" />
