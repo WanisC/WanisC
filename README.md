@@ -25,4 +25,4 @@ I like to explore and build projects on topics I've studied throughout my years 
 
 ### 📊 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WanisC)] [![N0w4c's Badge](https://tryhackme-badges.s3.amazonaws.com/N0w4c.png)](https://tryhackme.com/p/N0w4c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WanisC) [![N0w4c's Badge](https://tryhackme-badges.s3.amazonaws.com/N0w4c.png)](https://tryhackme.com/p/N0w4c)
