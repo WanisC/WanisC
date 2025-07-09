@@ -8,6 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanischouaib/)](https://www.linkedin.com/in/wanis-chouaib-7b327b251/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:wanischouaib1@gmail.com)](mailto:wanischouaib1@gmail.com)
 [![Reddit Badge](https://img.shields.io/badge/Reddit-orange?style=flat&logo=reddit&logoColor=white&link=https://www.https://www.reddit.com/user/cWano)](https://www.reddit.com/user/cWano)
+[![TryHackMe Rank](https://img.shields.io/badge/-TryHackMe-red?style=flat&logo=Tryhackme&logoColor=white&link=https://tryhackme.com/p/N0w4c/)](https://tryhackme.com/p/N0w4c)
 
 ### About me
 
@@ -25,4 +26,4 @@ I like to explore and build projects on topics I've studied throughout my years 
 
 ### 📊 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WanisC) [![TryHackMe Rank](https://img.shields.io/badge/TryHackMe%20Rank-6177-blue?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/N0w4c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WanisC)
